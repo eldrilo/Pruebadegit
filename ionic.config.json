@@ -1,0 +1,7 @@
+{
+  "name": "pruabadegit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
